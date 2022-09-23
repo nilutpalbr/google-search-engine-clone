@@ -1,0 +1,49 @@
+body{
+    background-image: url(https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2074&q=80);
+    max-width: 100%;
+}
+.container{
+    text-align: center;
+    color: white;
+    justify-content: center;
+}
+.a{
+    color: red;
+    font-size: large;
+}
+.inpt{
+    background-color: dodgerblue;
+}
+.inpt:hover{
+    background-color: greenyellow;
+}
+h1{
+
+    font-family: sans-serif;
+    color: rgb(220, 222, 225);
+    font-size: 4rem;
+}
+.lan{
+    color: rgb(220, 222, 225);
+}
+.imgg{
+    margin-top: 2rem;
+    align-items: center;
+     background-size: auto;
+    justify-content: center;
+    height: 28%;
+    width: 70%;
+    max-width: 100% ;
+}
+a{
+    color: #3366CC;
+}
+#search{
+    justify-content: center;
+}
+.second-div{
+    margin-top: 10rem;
+}
+.foot{
+    margin-top: 9rem;
+}
